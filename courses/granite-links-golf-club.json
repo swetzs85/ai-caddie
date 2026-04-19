@@ -1,0 +1,340 @@
+{
+  "name": "Granite Links Golf Club",
+  "location": "Quincy, MA",
+  "lat": 42.2387,
+  "lng": -71.0158,
+  "websiteUrl": "https://www.granitelinks.com",
+  "tees": {
+    "Black": {
+      "rating": 72.0,
+      "slope": 130,
+      "total": 6224
+    }
+  },
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "yardages": {
+        "Black": 469
+      },
+      "handicap": {
+        "men": 3,
+        "women": 3
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 1, Par 5.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "yardages": {
+        "Black": 367
+      },
+      "handicap": {
+        "men": 7,
+        "women": 7
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 2, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "yardages": {
+        "Black": 405
+      },
+      "handicap": {
+        "men": 1,
+        "women": 1
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 3, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "yardages": {
+        "Black": 182
+      },
+      "handicap": {
+        "men": 17,
+        "women": 17
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 4, Par 3.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yardages": {
+        "Black": 363
+      },
+      "handicap": {
+        "men": 11,
+        "women": 11
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 5, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "yardages": {
+        "Black": 322
+      },
+      "handicap": {
+        "men": 15,
+        "women": 15
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 6, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "yardages": {
+        "Black": 199
+      },
+      "handicap": {
+        "men": 13,
+        "women": 13
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 7, Par 3.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "yardages": {
+        "Black": 460
+      },
+      "handicap": {
+        "men": 5,
+        "women": 5
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 8, Par 5.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "yardages": {
+        "Black": 283
+      },
+      "handicap": {
+        "men": 9,
+        "women": 9
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 9, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "yardages": {
+        "Black": 441
+      },
+      "handicap": {
+        "men": 2,
+        "women": 2
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 10, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "yardages": {
+        "Black": 163
+      },
+      "handicap": {
+        "men": 16,
+        "women": 16
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 11, Par 3.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "yardages": {
+        "Black": 417
+      },
+      "handicap": {
+        "men": 4,
+        "women": 4
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 12, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "yardages": {
+        "Black": 470
+      },
+      "handicap": {
+        "men": 8,
+        "women": 8
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 13, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "yardages": {
+        "Black": 353
+      },
+      "handicap": {
+        "men": 10,
+        "women": 10
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 14, Par 5.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "yardages": {
+        "Black": 200
+      },
+      "handicap": {
+        "men": 12,
+        "women": 12
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 15, Par 3.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "yardages": {
+        "Black": 332
+      },
+      "handicap": {
+        "men": 18,
+        "women": 18
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 16, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "yardages": {
+        "Black": 323
+      },
+      "handicap": {
+        "men": 14,
+        "women": 14
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 17, Par 4.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "yardages": {
+        "Black": 476
+      },
+      "handicap": {
+        "men": 6,
+        "women": 6
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Granite-Milton 18, hole 18, Par 5.",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    }
+  ]
+}
