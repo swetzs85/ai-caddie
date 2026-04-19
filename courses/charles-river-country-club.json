@@ -1,0 +1,425 @@
+{
+  "name": "Charles River Country Club",
+  "location": "Newton, MA",
+  "lat": 42.3043,
+  "lng": -71.201,
+  "websiteUrl": "",
+  "tees": {
+    "Blue": {
+      "rating": 72.3,
+      "slope": 133,
+      "total": 5861
+    }
+  },
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yardages": {
+        "Blue": 373
+      },
+      "handicap": {
+        "men": 3,
+        "women": 3
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 1, Par 4. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": {
+        "tee": {
+          "lat": 42.304571,
+          "lng": -71.195998
+        },
+        "green": {
+          "lat": 42.303313,
+          "lng": -71.200292
+        },
+        "center": {
+          "lat": 42.3037355,
+          "lng": -71.1989645
+        }
+      }
+    },
+    {
+      "number": 2,
+      "par": 5,
+      "yardages": {
+        "Blue": 444
+      },
+      "handicap": {
+        "men": 7,
+        "women": 7
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 2, Par 5. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": {
+        "tee": {
+          "lat": 42.302547,
+          "lng": -71.199496
+        },
+        "green": {
+          "lat": 42.304747,
+          "lng": -71.204487
+        },
+        "center": {
+          "lat": 42.3037655,
+          "lng": -71.2026475
+        }
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "yardages": {
+        "Blue": 339
+      },
+      "handicap": {
+        "men": 13,
+        "women": 13
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 3, Par 4. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": {
+        "tee": {
+          "lat": 42.304626,
+          "lng": -71.205783
+        },
+        "green": {
+          "lat": 42.303519,
+          "lng": -71.209441
+        },
+        "center": {
+          "lat": 42.304120499999996,
+          "lng": -71.20819399999999
+        }
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "yardages": {
+        "Blue": 138
+      },
+      "handicap": {
+        "men": 17,
+        "women": 17
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 4, Par 3. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": {
+        "tee": {
+          "lat": 42.303537,
+          "lng": -71.209814
+        },
+        "green": {
+          "lat": 42.302309,
+          "lng": -71.20972
+        },
+        "center": {
+          "lat": 42.3029115,
+          "lng": -71.20976999999999
+        }
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yardages": {
+        "Blue": 352
+      },
+      "handicap": {
+        "men": 1,
+        "women": 1
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 5, Par 4. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": {
+        "tee": {
+          "lat": 42.302492,
+          "lng": -71.20913
+        },
+        "green": {
+          "lat": 42.304103,
+          "lng": -71.205933
+        },
+        "center": {
+          "lat": 42.303726,
+          "lng": -71.20687749999999
+        }
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "yardages": {
+        "Blue": 312
+      },
+      "handicap": {
+        "men": 11,
+        "women": 11
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 6, Par 4. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": {
+        "tee": {
+          "lat": 42.304662,
+          "lng": -71.205112
+        },
+        "green": {
+          "lat": 42.302198,
+          "lng": -71.203742
+        },
+        "center": {
+          "lat": 42.3031645,
+          "lng": -71.203723
+        }
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "yardages": {
+        "Blue": 419
+      },
+      "handicap": {
+        "men": 9,
+        "women": 9
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 7, Par 5. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": {
+        "tee": {
+          "lat": 42.301674,
+          "lng": -71.204109
+        },
+        "green": null,
+        "center": null
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "yardages": {
+        "Blue": 368
+      },
+      "handicap": {
+        "men": 5,
+        "women": 5
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 8, Par 4. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "yardages": {
+        "Blue": 163
+      },
+      "handicap": {
+        "men": 15,
+        "women": 15
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 9, Par 3. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "yardages": {
+        "Blue": 419
+      },
+      "handicap": {
+        "men": 10,
+        "women": 10
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 10, Par 5. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "yardages": {
+        "Blue": 219
+      },
+      "handicap": {
+        "men": 12,
+        "women": 12
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 11, Par 3. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "yardages": {
+        "Blue": 320
+      },
+      "handicap": {
+        "men": 14,
+        "women": 14
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 12, Par 4. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "yardages": {
+        "Blue": 315
+      },
+      "handicap": {
+        "men": 6,
+        "women": 6
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 13, Par 4. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "yardages": {
+        "Blue": 171
+      },
+      "handicap": {
+        "men": 18,
+        "women": 18
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 14, Par 3. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "yardages": {
+        "Blue": 460
+      },
+      "handicap": {
+        "men": 8,
+        "women": 8
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 15, Par 5. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "yardages": {
+        "Blue": 480
+      },
+      "handicap": {
+        "men": 2,
+        "women": 2
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 16, Par 5. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "yardages": {
+        "Blue": 172
+      },
+      "handicap": {
+        "men": 16,
+        "women": 16
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 17, Par 3. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "yardages": {
+        "Blue": 398
+      },
+      "handicap": {
+        "men": 4,
+        "women": 4
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 18, Par 4. Classic Donald Ross design (1921).",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    }
+  ]
+}
