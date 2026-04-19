@@ -1,5 +1,45 @@
 [
   {
+    "slug": "bandon-dunes",
+    "name": "Bandon Dunes",
+    "location": "Bandon, OR"
+  },
+  {
+    "slug": "bandon-trails",
+    "name": "Bandon Trails (Bandon Dunes Resort)",
+    "location": "Bandon, OR"
+  },
+  {
+    "slug": "charles-river-country-club",
+    "name": "Charles River Country Club",
+    "location": "Newton, MA"
+  },
+  {
+    "slug": "granite-links-golf-club",
+    "name": "Granite Links Golf Club",
+    "location": "Quincy, MA"
+  },
+  {
+    "slug": "old-macdonald",
+    "name": "Old Macdonald (Bandon Dunes Resort)",
+    "location": "Bandon, OR"
+  },
+  {
+    "slug": "pacific-dunes",
+    "name": "Pacific Dunes (Bandon Dunes Resort)",
+    "location": "Bandon, OR"
+  },
+  {
+    "slug": "sheep-ranch",
+    "name": "Sheep Ranch (Bandon Dunes Resort)",
+    "location": "Bandon, OR"
+  },
+  {
+    "slug": "stonewall-north",
+    "name": "Stonewall Links - North Course",
+    "location": "Elverson, PA"
+  },
+  {
     "slug": "tedesco-country-club",
     "name": "Tedesco Country Club",
     "location": "Marblehead, MA"
