@@ -1,0 +1,432 @@
+{
+  "name": "Stonewall Links - North Course",
+  "location": "Elverson, PA",
+  "lat": 40.1478,
+  "lng": -75.8311,
+  "websiteUrl": "https://www.stonewallgolfclub.com",
+  "tees": {
+    "Black": {
+      "rating": 72.7,
+      "slope": 136,
+      "total": 6735
+    },
+    "Blue": {
+      "rating": 70.6,
+      "slope": 131,
+      "total": 6312
+    },
+    "White": {
+      "rating": 68.2,
+      "slope": 126,
+      "total": 5886
+    },
+    "Green": {
+      "rating": 70.5,
+      "slope": 123,
+      "total": 5194
+    },
+    "White (L)": {
+      "rating": 75,
+      "slope": 136,
+      "total": 5886
+    }
+  },
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yardages": {
+        "Black": 419,
+        "Blue": 413,
+        "White": 376,
+        "Green": 328,
+        "White (L)": 376
+      },
+      "handicap": {
+        "men": 1,
+        "women": 1
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 1, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "yardages": {
+        "Black": 205,
+        "Blue": 197,
+        "White": 136,
+        "Green": 123,
+        "White (L)": 136
+      },
+      "handicap": {
+        "men": 2,
+        "women": 2
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 2, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "yardages": {
+        "Black": 496,
+        "Blue": 470,
+        "White": 465,
+        "Green": 420,
+        "White (L)": 465
+      },
+      "handicap": {
+        "men": 3,
+        "women": 3
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 3, Par 5",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "yardages": {
+        "Black": 429,
+        "Blue": 383,
+        "White": 381,
+        "Green": 331,
+        "White (L)": 381
+      },
+      "handicap": {
+        "men": 4,
+        "women": 4
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 4, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yardages": {
+        "Black": 414,
+        "Blue": 390,
+        "White": 364,
+        "Green": 321,
+        "White (L)": 364
+      },
+      "handicap": {
+        "men": 5,
+        "women": 5
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 5, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "yardages": {
+        "Black": 151,
+        "Blue": 144,
+        "White": 137,
+        "Green": 101,
+        "White (L)": 137
+      },
+      "handicap": {
+        "men": 6,
+        "women": 6
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 6, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "yardages": {
+        "Black": 455,
+        "Blue": 425,
+        "White": 418,
+        "Green": 347,
+        "White (L)": 418
+      },
+      "handicap": {
+        "men": 7,
+        "women": 7
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 7, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 8,
+      "par": 5,
+      "yardages": {
+        "Black": 554,
+        "Blue": 524,
+        "White": 498,
+        "Green": 486,
+        "White (L)": 498
+      },
+      "handicap": {
+        "men": 8,
+        "women": 8
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 8, Par 5",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "yardages": {
+        "Black": 183,
+        "Blue": 163,
+        "White": 140,
+        "Green": 115,
+        "White (L)": 140
+      },
+      "handicap": {
+        "men": 9,
+        "women": 9
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 9, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "yardages": {
+        "Black": 356,
+        "Blue": 350,
+        "White": 344,
+        "Green": 280,
+        "White (L)": 344
+      },
+      "handicap": {
+        "men": 10,
+        "women": 10
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 10, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "yardages": {
+        "Black": 413,
+        "Blue": 386,
+        "White": 378,
+        "Green": 345,
+        "White (L)": 378
+      },
+      "handicap": {
+        "men": 11,
+        "women": 11
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 11, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "yardages": {
+        "Black": 356,
+        "Blue": 319,
+        "White": 312,
+        "Green": 296,
+        "White (L)": 312
+      },
+      "handicap": {
+        "men": 12,
+        "women": 12
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 12, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "yardages": {
+        "Black": 218,
+        "Blue": 199,
+        "White": 168,
+        "Green": 147,
+        "White (L)": 168
+      },
+      "handicap": {
+        "men": 13,
+        "women": 13
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 13, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "yardages": {
+        "Black": 421,
+        "Blue": 414,
+        "White": 365,
+        "Green": 332,
+        "White (L)": 365
+      },
+      "handicap": {
+        "men": 14,
+        "women": 14
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 14, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "yardages": {
+        "Black": 449,
+        "Blue": 382,
+        "White": 336,
+        "Green": 296,
+        "White (L)": 336
+      },
+      "handicap": {
+        "men": 15,
+        "women": 15
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 15, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "yardages": {
+        "Black": 479,
+        "Blue": 469,
+        "White": 423,
+        "Green": 390,
+        "White (L)": 423
+      },
+      "handicap": {
+        "men": 16,
+        "women": 16
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 16, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "yardages": {
+        "Black": 213,
+        "Blue": 189,
+        "White": 155,
+        "Green": 125,
+        "White (L)": 155
+      },
+      "handicap": {
+        "men": 17,
+        "women": 17
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 17, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "yardages": {
+        "Black": 524,
+        "Blue": 495,
+        "White": 490,
+        "Green": 411,
+        "White (L)": 490
+      },
+      "handicap": {
+        "men": 18,
+        "women": 18
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 18, Par 5",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    }
+  ]
+}
