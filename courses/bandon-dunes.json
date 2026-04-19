@@ -1,0 +1,340 @@
+{
+  "name": "Bandon Dunes",
+  "location": "Bandon, OR",
+  "lat": 43.1879,
+  "lng": -124.3925,
+  "websiteUrl": "https://www.bandondunesgolf.com",
+  "tees": {
+    "Black": {
+      "rating": 74.1,
+      "slope": 143,
+      "total": 6732
+    }
+  },
+  "holes": [
+    {
+      "number": 1,
+      "par": 4,
+      "yardages": {
+        "Black": 386
+      },
+      "handicap": {
+        "men": 13,
+        "women": 13
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 1, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "yardages": {
+        "Black": 189
+      },
+      "handicap": {
+        "men": 15,
+        "women": 15
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 2, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "yardages": {
+        "Black": 543
+      },
+      "handicap": {
+        "men": 3,
+        "women": 3
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 3, Par 5",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "yardages": {
+        "Black": 410
+      },
+      "handicap": {
+        "men": 5,
+        "women": 5
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 4, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "yardages": {
+        "Black": 428
+      },
+      "handicap": {
+        "men": 1,
+        "women": 1
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 5, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "yardages": {
+        "Black": 161
+      },
+      "handicap": {
+        "men": 17,
+        "women": 17
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 6, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "yardages": {
+        "Black": 383
+      },
+      "handicap": {
+        "men": 7,
+        "women": 7
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 7, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "yardages": {
+        "Black": 359
+      },
+      "handicap": {
+        "men": 11,
+        "women": 11
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 8, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "yardages": {
+        "Black": 558
+      },
+      "handicap": {
+        "men": 9,
+        "women": 9
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 9, Par 5",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 10,
+      "par": 4,
+      "yardages": {
+        "Black": 362
+      },
+      "handicap": {
+        "men": 8,
+        "women": 8
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 10, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "yardages": {
+        "Black": 384
+      },
+      "handicap": {
+        "men": 2,
+        "women": 2
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 11, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 12,
+      "par": 3,
+      "yardages": {
+        "Black": 199
+      },
+      "handicap": {
+        "men": 18,
+        "women": 18
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 12, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 13,
+      "par": 5,
+      "yardages": {
+        "Black": 553
+      },
+      "handicap": {
+        "men": 6,
+        "women": 6
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 13, Par 5",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "yardages": {
+        "Black": 359
+      },
+      "handicap": {
+        "men": 16,
+        "women": 16
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 14, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "yardages": {
+        "Black": 163
+      },
+      "handicap": {
+        "men": 14,
+        "women": 14
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 15, Par 3",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "yardages": {
+        "Black": 363
+      },
+      "handicap": {
+        "men": 10,
+        "women": 10
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 16, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "yardages": {
+        "Black": 389
+      },
+      "handicap": {
+        "men": 12,
+        "women": 12
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 17, Par 4",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "yardages": {
+        "Black": 543
+      },
+      "handicap": {
+        "men": 4,
+        "women": 4
+      },
+      "shape": "straight",
+      "elevation": "flat",
+      "hazards": [],
+      "description": "Hole 18, Par 5",
+      "strategy": "Play smart and find the fairway.",
+      "imageUrl": "",
+      "gps": null
+    }
+  ]
+}
